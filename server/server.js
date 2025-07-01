@@ -32,7 +32,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:5173', // Replace with your client URL
+  origin: 'https://taskmanager-3ybk.onrender.com', // Replace with your client URL
   credentials: true
 }));
 
