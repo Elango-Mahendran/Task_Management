@@ -13,7 +13,7 @@ A full-stack task management application built using the MERN stack (MongoDB, Ex
 ### ✅ Task Management
 - Create, edit, delete tasks
 - Filter by priority, status, and overdue
-- Prioritize tasks & update status dynamically
+- Prioritize tasks & update status  dynamically
 
 ### 🧑‍🤝‍🧑 Collaborative Task Rooms
 - Create & join task rooms with unique IDs
